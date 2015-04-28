@@ -25,6 +25,6 @@
 .search-item-panel button.btn-search,
 .search-item-panel button.btn-search:hover,
 .search-item-panel button.btn-search-hover{
-    background-image: url("https://cloud.githubusercontent.com/assets/10257481/7367970/0afbe35a-ede7-11e4-8d55-4479641f073f.png");
+    background-image: url("https://cloud.githubusercontent.com/assets/10257481/7367970/0afbe35a-ede7-11e4-8d55-4479641f073f.png") !important; 
     background-repeat: no-repeat;
 }
